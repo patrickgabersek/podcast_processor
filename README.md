@@ -10,7 +10,7 @@ Paste a YouTube URL → get a timestamped transcript + AI summary powered by Cla
 
 - Python 3.10+ — install from https://python.org
 - ffmpeg — required for audio extraction
-- An [Anthropic Console](https://console.anthropic.com)
+- An [Anthropic Console](https://platform.claude.com/)
 
 ---
 
